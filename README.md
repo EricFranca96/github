@@ -22,3 +22,17 @@ git add "nome do arquivo" adcionando as alterações do arquivo
 ```bash
 git commit -m "mensagem do commit"
 ```
+9- Para adicioar e salvar 
+```bash
+git commit -am "mensagem do commit"
+```
+10- Usado para verificar o log's do commit's
+```bash
+git log 
+```
+11- Para enviar as alterações salva para repositorio remoto, GITHUB
+```bash
+git push 
+```
+
+
