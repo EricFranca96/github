@@ -18,3 +18,7 @@ git status
 git add . (adicionando todas as alterações)
 git add "nome do arquivo" adcionando as alterações do arquivo
 ```
+8- Para salvar uma versão segura do projeto.
+```bash
+git commit -m "mensagem do commit"
+```
